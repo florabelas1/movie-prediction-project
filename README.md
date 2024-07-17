@@ -25,11 +25,11 @@ Este projeto foi desenvolvido para prever a nota do IMDb e o gênero de filmes c
 git clone https://github.com/florabelas1/movie-prediction-project
 cd movie-prediction-project
 
-Passo 2: Crie e ative um ambiente virtual (opcional, mas recomendado)
+### Passo 2: Crie e ative um ambiente virtual (opcional, mas recomendado)
 python -m venv env
 source env/bin/activate  # No Windows use `env\Scripts\activate`
 
-Passo 3: Instale os requisitos
+### Passo 3: Instale os requisitos
 pip install -r requirements.txt
 
 
